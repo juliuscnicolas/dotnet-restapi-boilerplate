@@ -1,0 +1,11 @@
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\bin\Debug\net9.0\RestApiBoilerplate.Domain.deps.json
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\bin\Debug\net9.0\RestApiBoilerplate.Domain.dll
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\bin\Debug\net9.0\RestApiBoilerplate.Domain.pdb
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.AssemblyInfoInputs.cache
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.AssemblyInfo.cs
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.csproj.CoreCompileInputs.cache
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.dll
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\refint\RestApiBoilerplate.Domain.dll
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\RestApiBoilerplate.Domain.pdb
+C:\repos\dotnet-restapi-boilerplate\src\RestApiBoilerplate.Domain\obj\Debug\net9.0\ref\RestApiBoilerplate.Domain.dll

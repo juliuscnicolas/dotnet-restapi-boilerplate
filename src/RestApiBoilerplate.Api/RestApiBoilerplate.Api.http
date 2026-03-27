@@ -1,0 +1,15 @@
+@RestApiBoilerplate.Api_HostAddress = http://localhost:5154
+
+### Create person
+POST {{RestApiBoilerplate.Api_HostAddress}}/api/people
+Content-Type: application/json
+
+{
+	"name": "Jane Doe",
+	"birthDate": "1995-10-20",
+	"gender": 2
+}
+
+### Get all people
+GET {{RestApiBoilerplate.Api_HostAddress}}/api/people
+Accept: application/json

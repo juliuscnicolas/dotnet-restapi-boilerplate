@@ -4,6 +4,11 @@ namespace RestApiBoilerplate.Domain.Entities;
 
 public sealed class Person
 {
+    private Person()
+    {
+        Name = string.Empty;
+    }
+
     public Guid Id { get; private set; }
 
     public string Name { get; private set; }
